@@ -1,4 +1,4 @@
-# piggame
+# Pig Game
 
 Game Rules:
 - The game has 2 players, playing in rounds 
@@ -8,7 +8,7 @@ Game Rules:
 - it's the next player's turn - The first player to reach 100 points on GLOBAL score wins the game
 
 ## Lets Begin! :zap:
-A dice game implement with JavaScript and spring boot
+A dice game implemented with JavaScript and spring boot
 
 [![Website](	https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=my-website)](https://www.pactmart.com)
 [![GPL](https://img.shields.io/aur/license/yaourt.svg)](https://opensource.org/licenses/GPL-3.0)
